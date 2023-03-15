@@ -7,7 +7,8 @@
   <ChildInLaw.labelFemale>невістка</ChildInLaw.labelFemale>
   
   <!-- EN: ex-lover -->
-  <ExLover.label>минула любов</ExLover.label>
+  <ExLover.label>колишній коханець</ExLover.label>
+  <ExLover.labelFemale>колишня коханка</ExLover.labelFemale>
   
   <!-- EN: ex-husband -->
   <ExSpouse.label>колишній чоловік</ExSpouse.label>
